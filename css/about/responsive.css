@@ -1,0 +1,274 @@
+@media(max-width:575.98px){
+.navbar-collapse {
+	flex-basis: 100%;
+	flex-grow: 1;
+	align-items: center;
+	transition: 0.5s;
+}
+.navbar-light .navbar-toggler {
+	color: #000 !important;
+	border-color:#fff !important;
+}
+.navbar-toggler:focus {
+	 text-decoration: none; 
+	 outline:none;
+	 box-shadow: none; 
+}
+.about_business{
+	padding: 8px 0px;
+}
+.about_business_text h2 {
+	font-size: 20px;
+	line-height: 40px;
+	padding-left: 0px;
+}
+.business_img {
+	margin-top: 10px;
+}
+.about_works {
+	padding: 15px 0px;
+}
+.works_item {
+	padding: 36px 25px 35px;
+}
+.works_inner {
+	padding: 0px 38px 10px;
+	margin: 10px 0px;
+}
+.achiev_text h2 {
+	font-size: 27px;
+	 line-height:30px;
+}
+.achiev_text .pera_1, .achiev_text .pera_2 {
+	font-size: 14px;
+}
+.achiev_text a {
+	padding: 0px 29px;
+}
+.achiev_img_row {
+	 margin-top:0px; 
+}
+.achiev_img{
+	margin: 10px 0px;
+}
+.choose_head h2 {
+	font-size: 30px;
+	line-height: 30px;
+}
+.choose_head h2::after {
+	left: 35%;
+}
+.choose_text p { 
+	font-size: 14px;
+}
+.choose_text h3 {
+	font-size: 16px;
+}
+.experience_item {
+	padding-left: 30px;
+	border-left:none;
+}
+.team_img img {
+	width: 68% !important;
+	margin: 30px 0px 0px;
+}
+.text-center {
+	margin: 10px 0px;
+}
+.markert_right::after {
+display: none;
+}
+.markert_left a, .markert_right a {
+	font-size: 14px;
+}
+.footer_form .textarea {
+	font-size: 14px;
+}
+.footer_iner {
+	margin-top: 20px;
+	text-align: center;
+}
+.footer_iner p {
+	font-size: 12px;
+}
+.address i, .email i, .phone i {
+	left: 13px;
+}
+.sosal_icon{
+	text-align: center !important;
+}
+}
+@media (min-width:576px) and (max-width:767.98px){
+.navbar-collapse {
+	flex-basis: 100%;
+	flex-grow: 1;
+	align-items: center;
+	transition: 0.5s;
+}
+.navbar-light .navbar-toggler {
+	color: #000 !important;
+	border-color:#fff !important;
+}
+.navbar-toggler:focus {
+	 text-decoration: none; 
+	 outline:none;
+	 box-shadow: none; 
+}
+.about_business {
+	padding: 8px 0px;
+}
+.about_business_text h2 {
+	font-size: 30px;
+	padding-left: 0px;
+}
+.business_img {
+	margin-top: 10px;
+}
+.about_works {
+	padding: 15px 0px;
+}
+.works_item {
+	padding: 36px 25px 35px;
+}
+.works_inner {
+	padding: 0px 38px 10px;
+	margin: 10px 0px;
+}
+.achiev_text a {
+	padding: 0px 29px;
+}
+.achiev_img_row {
+	 margin-top:0px; 
+}
+.achiev_img{
+	margin: 10px 0px;
+}
+.choose_head h2 {
+	font-size: 30px;
+	line-height: 30px;
+}
+.choose_head h2::after {
+	left: 35%;
+}
+.experience_item {
+	padding-left: 30px;
+	border-left:none;
+}
+.experience_item h2 {
+	font-size: 28px;
+}
+.team_img img {
+	width: 68% !important;
+	margin: 30px 0px 0px;
+}
+.text-center {
+	margin: 10px 0px;
+}
+.markert_right::after {
+display: none;
+}
+.footer_form .textarea {
+	font-size: 14px;
+}
+.footer_iner {
+	margin-top: 20px;
+	text-align: center;
+}
+.footer_iner p {
+	font-size: 12px;
+}
+.address i, .email i, .phone i {
+	left: 13px;
+}
+.sosal_icon{
+	text-align: center !important;
+}
+}
+@media (min-width:768px) and (max-width:991.98px){
+	.navbar-collapse {
+		flex-basis: 100%;
+		flex-grow: 1;
+		align-items: center;
+		transition: 0.5s;
+	}
+	.navbar-light .navbar-toggler {
+		color: #000 !important;
+		border-color:#fff !important;
+	}
+	.navbar-toggler:focus {
+		 text-decoration: none; 
+		 outline:none;
+		 box-shadow: none; 
+	}
+	.about_business {
+		padding: 0px 0px;
+	}
+	.business_img {
+		margin: 8px 0px;
+	}
+	.about_works {
+		padding: 20px 0px;
+	}
+	.works_item {
+		margin: 10px 0px;
+	}
+	.works_inner{
+		margin: 10px 0px;
+	}
+	.achiev_text a {
+		padding: 0px 29px;
+	}
+	.achiev_img{
+		margin: 10px 0px;
+	}
+	.experience_item h2 {
+		font-size: 42px;
+	}
+	.experience_item p {
+		font-size: 12px;
+	}
+	.team_text h3 {
+		font-size: 14PX;
+	}
+	.markert_right::after {
+		left: -206px;
+	}
+}
+@media (min-width:992px) and (max-width:1199.98px){
+	.menu_bg ul li a {
+		font-size: 13px;
+	}
+	.business_text h2 {
+		font-size: 33px;
+	}
+	.works_item {
+		padding: 108px 25px 50px;
+	}
+	.works_inner {
+		padding: 0px 38px 54px;
+	}
+	.achiev_text a {
+		padding: 1px 29px;
+	}	
+	.choose_text h3 {
+		font-size: 16px;
+	}
+	.markert_right::after {
+display: none;
+	}
+	.markert_left a, .markert_right a {
+		font-size: 14px;
+	}
+}
+@media (min-width:1200px) and (max-width:1399.98px){
+	.works_inner h5 {
+		font-size: 17px;
+	}
+	.works_inner {
+		padding: 0px 38px 117px;
+	}
+	.markert_right::after {
+		left: -34px;
+	}
+
+}
